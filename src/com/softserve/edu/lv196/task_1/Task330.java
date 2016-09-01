@@ -20,7 +20,7 @@ public class Task330 {
 	public static void main(String[] args) {
 
 		//the limit for perfect numbers search
-		long number = 50_000;
+		long number = 10_000;
 
 		// the method, which searches for perfect numbers		
 		perfectNumbers(number);
