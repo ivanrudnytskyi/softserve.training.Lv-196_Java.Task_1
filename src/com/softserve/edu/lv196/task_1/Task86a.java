@@ -1,4 +1,4 @@
-package com.softserve.edu.lv196;
+package com.softserve.edu.lv196.task_1;
 
 /**
  * 
