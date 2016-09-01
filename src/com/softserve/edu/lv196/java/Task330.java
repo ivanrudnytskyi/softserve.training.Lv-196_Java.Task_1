@@ -1,4 +1,4 @@
-package com.softserve.edu.lv196.java.task330;
+package com.softserve.edu.lv196.java;
 
 import java.util.stream.LongStream;
 

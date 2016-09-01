@@ -1,4 +1,4 @@
-package com.softserve.edu.lv196.java.task182;
+package com.softserve.edu.lv196.java;
 
 import java.util.LongSummaryStatistics;
 import java.util.stream.LongStream;
