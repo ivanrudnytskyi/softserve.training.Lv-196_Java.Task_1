@@ -1,4 +1,4 @@
-package ua.softserve.training.Lv_196_Java.ivan.rudnytskyi.task330;
+package com.softserve.edu.lv196;
 
 
 /**
@@ -20,7 +20,7 @@ public class Task330 {
 	public static void main(String[] args) {
 
 		//the limit for perfect numbers search
-		long number = 50000;
+		long number = 50_000;
 
 		// the method, which searches for perfect numbers		
 		perfectNumbers(number);

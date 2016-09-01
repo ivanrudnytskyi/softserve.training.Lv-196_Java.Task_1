@@ -1,4 +1,4 @@
-package ua.softserve.training.Lv_196_Java.ivan.rudnytskyi.task182;
+package com.softserve.edu.lv196;
 
 /**
  * @author Ivan Rudnytskyi
