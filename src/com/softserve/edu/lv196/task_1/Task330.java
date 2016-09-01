@@ -35,7 +35,7 @@ public class Task330 {
 	public static void perfectNumbers (long number){
 
 		if (number < 1)
-			throw new IllegalArgumentException("The number must be greater then 1");
+			throw new IllegalArgumentException("The number must be greater than 1");
 
 		//if a perfect number is found, the variable is set true
 		boolean perfectNumberPresent = false;
