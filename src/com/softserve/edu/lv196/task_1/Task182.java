@@ -18,6 +18,8 @@ public class Task182 {
 
 		//the high limit for the sequence
 		long n = 39;
+		
+		//11111111
 
 		//the start number of the sequence
 		long a1 = -26;
